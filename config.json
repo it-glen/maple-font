@@ -3,6 +3,7 @@
   "use_hinted": false,
   "pool_size": 4,
   "enable_ligature": false,
+  "enable_liga": false,
   "ttfautohint_param": {},
   "feature_freeze": {
     "cv01": "enable",
